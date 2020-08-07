@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tetrahedral Dice V1",
+"productVersion": "0.1",
+"dataUrl": "DanielTetrahedralDice v1.data.unityweb",
+"wasmCodeUrl": "DanielTetrahedralDice v1.wasm.code.unityweb",
+"wasmFrameworkUrl": "DanielTetrahedralDice v1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
